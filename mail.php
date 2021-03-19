@@ -1,5 +1,4 @@
- 
-<?php
+ <?php
 	// define variables and set to empty values
 	$nameErr = $emailErr = $phoneErr = $inquiryErr = "";
 	$name = $email = $phone = $inquiry = $email_message = "";
@@ -66,7 +65,7 @@
 			$email_from = "no-reply@emailadress.com";
 			
 			// Send form contents to address below
-			$email_to = "info@emailadress.com";
+			$email_to = "kawtar.lamhaouar@gmail.com";
 			
 			// Email message subject
 			$today = date("j F, Y. H:i:s");
